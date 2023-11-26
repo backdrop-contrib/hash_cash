@@ -17,7 +17,7 @@ these requirements.
 - Install this module using the official Backdrop CMS instructions at
   [Extend with Modules](https://docs.backdropcms.org/documentation/extend-with-modules).
 
-- Visit the configuration page on admin/config/development/hash_cash and change
+- Visit the configuration page on admin/config/development/hashcash and change
   which forms are protected and the minimum time that must pass before a form
   could be submitted.
 
@@ -25,7 +25,7 @@ these requirements.
 ## Issues
 
 Bugs and Feature requests should be reported in the
-[issue queue](https://github.com/backdrop-contrib/hash_cash/issues).
+[issue queue](https://github.com/backdrop-contrib/hashcash/issues).
 
 
 ## Current Maintainers
